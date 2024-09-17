@@ -1,0 +1,1 @@
+# educa24-speech-to-summary
