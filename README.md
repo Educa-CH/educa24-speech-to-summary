@@ -1,4 +1,4 @@
-# Educa24
+# Educa24 Speech-to-Summary
 This repository contains a python script that is used as a demonstrator during the [Educa24 symposium](https://www.educa.ch/de/veranstaltungen/2024/educa24-daten-als-grundlage-fuer-ki-systeme) on September 18, 2024. It generates fully automatically a text summary from an audio recording. The script uses exclusively open-source tools and open-weights LLMs, which can be run on a local computing infrastructure. If the application runs locally, users retain complete control over their data at all times.
 
 ## Dependencies
